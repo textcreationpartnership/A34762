@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The countries vindication from the aspersions of a late scandalous paper (nick-named) Robert Tell-Truths advice in choice of the next Parliament in which his popish designs are fully discovered and detected / by a lover of his king and country.</title>
+            <author>Lover of his king and country.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34762</idno>
+            <idno type="STC">Wing C6573</idno>
+            <idno type="STC">ESTC R20996</idno>
+            <idno type="EEBO-CITATION">12259580</idno>
+            <idno type="OCLC">ocm 12259580</idno>
+            <idno type="VID">57805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34762)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 177:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The countries vindication from the aspersions of a late scandalous paper (nick-named) Robert Tell-Truths advice in choice of the next Parliament in which his popish designs are fully discovered and detected / by a lover of his king and country.</title>
+                  <author>Lover of his king and country.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1679?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tell-Truth, Robert. --  Advice to the nobility, gentry, &amp; commonality of this nation in the qualifications and elections of their knights and burgesses, their representatives in Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:57805:1"/>
+            <pb n="1" facs="tcp:57805:1" rendition="simple:additions"/>
+            <head>THE Countries Vindication, FROM The Aſperſions of a late Scandalous Paper (Nick-named) <hi>Robert Tell truths Advice in choice of the next Parliament.</hi> In which his Popiſh Deſigns are fully diſcovered and de<g ref="char:EOLhyphen"/>tected. By a Lover of his King and Country.</head>
+            <opener>Reſpice &amp; Cave.</opener>
+            <p>BY how mu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Deſigns are l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>id moſt oppoſite to Truth and Righteouſneſs, to much the more are thoſe workers of iniquity active and induſtrious to promote thoſe indirect Intereſts, <hi>Per fas a<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nefas,</hi> turn every ſtone, never wanting the preſence of publick advantage. In this art of <hi>Legerdemain,</hi> our old, but now moſt vigorous enemies, the <hi>Papiſts,</hi> are upon their great trial of skill. In ſome Pamphlets they throw off the Plot, as viſible as it is; and in a late Paper <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey undertake to adviſe the People of <hi>England</hi> in their Ele<g ref="char:EOLhyphen"/>c<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions of Parliament-men; and have made it their buſineſs to create Jealouſies amongſt the Prote<g ref="char:EOLhyphen"/>ſtants, thereby to divide that Intereſt which is all little enough when intire, to reſiſt their deviliſh and hell-bred Machinations. This Sophiſter tells us, There has been Factions in all Ages playing their tricks; and that <hi>in nomine Domini,</hi> I can conſent with him to our ſad experience, I can turn the truth upon the Popiſh faction, and by that time I have done, lay all the Deviliſh tricks at their own door. In the mean time tell him, <hi>Turpe eſt Doctori cum culpa redarguit ipſum:</hi> Thou that teacheſt another ſhould not ſteal, doſt thou murder, and commit Sacriledg? thou Hypocrite, take out the beam out of thy own eye firſt, before thou undertake the mote in thy brothers; and ere you hope to have your Advice to paſs, let us examine your Compoſition. I find your whole Re<g ref="char:EOLhyphen"/>ceipt has dangerous Ingredients, Reflections upon Parliaments, upon all godly ſober men, and up<g ref="char:EOLhyphen"/>on honeſt Country-men. Another part in the mixture, are ſeeds of Jealouſies and Diviſions thrown amongſt us, your old ſtratagems! this will not do, <hi>Mors in olla,</hi> we find a Snake in the ſweet herbs, and death in the pot; I believe you have had this <hi>recipe</hi> from Sir <hi>George Wakeman,</hi> skilful in the venomous Art of Poyſoning. Your deſign, Sir, is diſcovered, therefore you cannot hope to ſucceed; your caution againſt the Godly, the ſober party, nor the honeſt Country-man, will not divide us: I can aſſure you, Sir, they are no <hi>Papists;</hi> and for thoſe unhappy diviſions that are and have been amongſt us in the Church, we ſhall demonſtrate the Jeſuit inforc'd 'em; and he muſt needs go that the Devil drives; and to draw a ſuſpect one amongſt another, he tells us of what tricks, and what vizards were worn in Forty-eight by <hi>Puritans</hi> and others; at which time you ſay they loſt their Mask; a favour of your own beſtowing, and now has reaſſumed it again, with which you are playing the Devil in the ſhape of an Angel of light; but what have you to do to rake up our former miſeries, which I hope God has forgiven, and the King has graciouſly ſo long ſince pardon<g ref="char:EOLhyphen"/>ed? by whoſe wiſdom and goodneſs he ſits Enthroned in his peoples hearts; all your ſubtilties can not unſettle the favourable apprehenſions his Majeſty has of his Proteſtant ſubjects loyalty after twenty years experience; nor any ways bring in queſtion the duty and affections of his People; no, Sir, the reſentments of former evils are too freſh amongſt us for any Popiſh machinations to diſſolve this union; take the holy cheat to your ſelf your <hi>Piae fraudes</hi> are the beſt ſupport of your <hi>Romiſh</hi> Church; and had not your Engins play'd amongſt us, our Puritan had never ſeparated from the Church of <hi>England;</hi> for I muſt tell you, all the ſober, godly party, and <hi>Puritans</hi> too, were all conformable to the decent and orderly government of the Church of <hi>England;</hi> read and heard
+<pb n="2" facs="tcp:57805:2"/>Divine ſervice, and wore the Surplice, and there held ſteddy till the fourth Commandment was almoſt expunged the Decalogue; witneſs the Book ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t out by the Arch-biſhop of <hi>Canterbury,</hi> for licenſing Sports, Pays, and Dancings on the Lords day, enforcing all Miniſters to read it in their Churches, which divers otherwiſe conformable out of conſcience refuſed, for which they were turned out of their Miniſtry, and a company of ſcandalous debauchees, men of any latitude, put into their places: This was a bird hatcht at <hi>Rome,</hi> ſent to be nurſt in <hi>England,</hi> knowing well it would bring to paſs their infallible deſign to divide us; and from the ſame counſels came into our Churches thoſe crouds of Trumperies, Tapers, and Crucifixes, Cringings and Bowings, that the Service of God was turned to a Popiſh Antick; all in pretence as it was publickly aſſerted by ſome Grandees then in the Church, to bring us to as near an union with the Church of <hi>Rome</hi> as poſſi<g ref="char:EOLhyphen"/>bly the temper of the preſent time would bear. We do not forget what was enforc'd upon the peaceable Kirk of <hi>Scotland,</hi> where the three footed Stools from the old Womens Tayls began the War; all theſe were likely ways to preſerve us from Popery, contrary to the deſigns of our bleſſed Reformers King <hi>Edward</hi> the ſixth, and Queen <hi>Elizabeth</hi> of bleſſed Memory, who by degrees as thoſe days would endure, drew us ſtill further off from thoſe Fopperies; and we might have ex<g ref="char:EOLhyphen"/>pected then when the Nation was become generally Proteſtant, to have kept a greater diſtance by a further Reformation; and as in the Church, ſo in the State, men of corrupt minds, and pernici<g ref="char:EOLhyphen"/>ous practices, to ſatisfie their avarice and boundleſs ambitions, obtruded ſeveral Illegal Impoſitions, as Loan-money and Ship-money, againſt Law, (for which divers Noblemen and Gentlemen endured long Impriſonments); Cuſtoms exacted without Act of Parliament, with ſwarms of Monoplies, under which the Nation groaned; then came in the <hi>Scotch</hi> with a formidable Army to our Borders, with their Petitions. A Parliament was call'd, who inſpecting the Grievances of the Nation, diſ<g ref="char:EOLhyphen"/>covered thoſe wicked Counſellors, and dangerous Influences of the <hi>Papists,</hi> Impeaching and call<g ref="char:EOLhyphen"/>ing to account thoſe contrivers and actors of theſe Oppreſſions; ſome whereof fled; others for their own protection, (and the Jeſuits the better to ſhuffle in their deſigns in the midſt of our con<g ref="char:EOLhyphen"/>fuſion,) made the beſt of Kings ſuſpect his ſafety amongſt his People, and drove us into that un<g ref="char:EOLhyphen"/>natural War; then the <hi>Papist</hi> not out of affection to his Majeſty, but having no other ſubterfuge, and to carry on their deſigns, ran in with their Arms, got into ſeveral great places of Truſt, Mi<g ref="char:EOLhyphen"/>litary and Civil; contriving and effecting an Act of Pacification with the bloody <hi>Iriſh</hi> Rebels, after they had imbrued their hands in the blood and murder of a Hundred thouſand of his Majeſties Proteſtant Subjects in <hi>Ireland;</hi> all which begat deſperate apprehenſions in the minds of moſt men, that Arbitrarineſs and Popery were breaking in upon us; though as we are bound to believe, never deſign'd by that bleſſed Prince and glorious Martyr. The <hi>Papiſt</hi> joyning unfortunately in this War, heightned the confuſion, and now blood and rapine know no bounds, the King is over thrown in his juſt Cauſe by the wicked deſigns of theſe diſturbers of the World, and enemies to Man<g ref="char:EOLhyphen"/>kind, who brought him alſo to his miſerable End; and it can, and is now prov'd, that the <hi>Jeſuits</hi> had in that Trayterous and horrid murder a principal hand, <hi>Quis Talia fando ſustinet a lachrimis.</hi> After this diſmal Tragedy was over, and we in the height of diſtraction, and the Land in a Chaos of confuſions, eſtrang'd from peace and ſettlement, God in Judgment remembred mercy, and by his Miraculous Providence, our bleſſed Prince, like the glorious Sun, after our diſmal Nights, and ſharp winter of afflictions, appeared in our Horizon, to our almoſt diſtracting-joys, receiving his People with open arms of Clemency, to which his People ecchoed with all loyal expreſſi<g ref="char:EOLhyphen"/>ons of grateful affections and duty, our Government of Church and State eſtabliſht, and we now in the apprehenſions of peace and ſafety, every man expecting to ſit down under his own Vine and Fig-tree, enjoying the fruits of his labours, in which the <hi>Papiſt</hi> had more than an equal ſhare, through the Grace and Princely bounty of our King (not ſuſpecting their deſigns) and they boaſting themſelves as his moſt loyal ſubjects.</p>
+            <p>Whilſt they were in this unqueſtionable credit, and all the ſevere Laws againſt them laid aſleep, infinite ſwarms of Jeſuits, Prieſts and Friers, and all ſorts of Orders, like the <hi>Egyptian</hi> Plague of Locuſts, came in amongſt us, perverting the Kings Subjects contrary to Law, com<g ref="char:EOLhyphen"/>paſſing Sea and Land to gain Proſelytes, in which they have prov'd too ſucceſsful; and amongſt thoſe many hundreds ſeduced (to lay their foundations ſure) they have rob'd our Nation of the moſt Heroick Victorious Prince, next Apparent Heir to the Crown. This we may remark as an infallible confirmation of their damnable Plot, a Treaſon of the deepeſt dye, never to be forgiven by any Proteſtant, and a quarrel never to be reconciled; they had wounded us in our ſeveral Members before, but in this they ſtabbed us to the very heart; and now it began to be fair day, their deſigns obvious, the ruin of King and Kingdom, with all the artifice that Hell could ſecretly and cunningly contrive; and had been as certainly executed, had not the infinite mercy of God taken care of us, unmaskt their deſigns and diſcovered their hor<g ref="char:EOLhyphen"/>rid Plot, by the prudent, faithful, and unqueſtionable Informations of Dr. <hi>Oates,</hi> Mr. <hi>Bedlow, Dugdale</hi> and others, who under God preſerved the Life of our moſt Gracious King, and with him our Lives, Liberties, Religion, and all that's dear to us; for which faithful im<g ref="char:EOLhyphen"/>portant
+<pb n="3" facs="tcp:57805:2"/>ſervice they deſerve the beſt of Rewards here, and their Names to be written in Cha<g ref="char:EOLhyphen"/>racters of Gold, Chronicled to poſterity; and though their ſerious and moſt congruous Evi<g ref="char:EOLhyphen"/>dences, back'd with many moſt undeniable Circumſtances, have paſt an Examination by His Majeſty and Council, and by two Parliaments ſucceſſively; and laſty, by all the Judges of the Na<g ref="char:EOLhyphen"/>tion, in fair, full, and Legal Tryals confirmed, and the Conſpirators juſtly Convicted, and brought to puniſhment: yet ſuch is the blinded wilfulneſs of many, and the malicious Impu<g ref="char:EOLhyphen"/>dence of others, that notwithſtanding all, and the Murder of brave Sir <hi>Edmundbury Godfrey</hi> to boot, they would fain waſh their hands in Innocency, and are ſtill playing their Game in new diſguiſes, impoſing a belief upon the world, that the danger lyes in the Diſſenting Prote<g ref="char:EOLhyphen"/>ſtants; but the Devil cannot detect them for one act of Diſloyalty ſince His Majeſties Reſtaura<g ref="char:EOLhyphen"/>tion, whileſt you have been plotting all this while, and wrought your deſigns into Treaſonable Acts of all kinds; and yet by the help of your Principles, ſpecial Merits and Abſolutions, as in<g ref="char:EOLhyphen"/>nocent as the Child unborn. But, Sir, theſe fig-leaves will not cover your nakedneſs, you can<g ref="char:EOLhyphen"/>not catch <hi>Engliſh</hi>-men in Cobwebs; nor can you, and all your <hi>Popiſh Maſquerado's,</hi> dance in your Nets, but you muſt be ſeen, <hi>Noſcitur ungue Leo,</hi> the Devil is known by his Cloven-foot, and your Characters are written in the flames of <hi>London,</hi> and in indelible Characters of Blood, which cry for judgment to Heaven againſt you: Take heed therefore, you that forget God, Chriſtianity, and Morality, leſt he tear you in pieces, and there be none to deliver you: 'tis not the leaſt happineſs, that you are known to the world, you curſed <hi>Jeſuits;</hi> What was your behaviour when you were baniſh'd <hi>Franc,</hi> when you were expell'd the <hi>Venetian</hi> Territories, and other States, where they found you Firebrands that would have deſtroyed their Kingdoms, and Com<g ref="char:EOLhyphen"/>monwealths? Who Murder'd the <hi>French</hi> Kings? No <hi>Puritan,</hi> no Godly party, no honeſt Coun<g ref="char:EOLhyphen"/>trey man. <hi>Phanatick Prieſts</hi> and <hi>Jeſuits</hi> are principl'd for thoſe Butcheries. You are too well known by the bloody Colours; and the Noble Cavalier that fought Conſcienciouſly for his King, found ſuch ill ſucceſs with you in the late War, you robbing him of his Lawrel, and of the due Rewards of his blood and ſweat, will never hand with you again: All your wheadles will never g<gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>n from the Church of <hi>England,</hi> nor make him inſenſible of the ſafety of his King, nor leſs car<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of the Intereſt of <hi>England</hi> by well-Elected Parliaments; neither ſhall all your falſe inſinuations prevail to make the world believe, That either our Parliaments or People would put down Biſhops, a Trick to put the deſign off your ſelves, that you may better, without ſuſpicion, do the wor<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>; no, Sir, we honour that Government, and by Gods Grace will ſtand to it, and re<g ref="char:EOLhyphen"/>vere our Grave and Learned Biſhops, whom we look at, under God, the beſt Bulwarks againſt your Tyrannies Popiſh Innovations.</p>
+            <p>The next thing he brings out of his Box, is a new <hi>Shiboleth,</hi> or a diſtinction betwixt the honeſt Countrey-man and Courtier; and, indeed, there is a great difference, for the honeſt Countrey-man is for the honour, peace, and ſafety of the King and Kingdom; takes care, and labours hard to get money to ſupport the King and Government; and this Courtier deteſted by all, and comes under the reproachful diſtinction, is a pernicious piece of Luxury, a Drone, a too-fac'd <hi>Janus,</hi> that has crept into the Confines of the Royal Palace, where he fawns and flatter, till he has ob<g ref="char:EOLhyphen"/>tain'd ſo much countenance, as can get him into ſome Truſt; and obſerving how the wind blows, turns his Sails ſo readily, that in time he dare attempt with Commendatory Letters, an Election in ſome petty Burrough, where he muſt drink away an honeſt Countrey Gentleman; and by the ſtrength of a publick Purſe he is choſen by thoſe pitiful S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts, that underſtand no other danger or advantage, than the profit of the preſent Carowzing; he is now return'd and ſits, having nei<g ref="char:EOLhyphen"/>ther honour, honeſty, nor eſtate, neceſſary qualifications for the truſt of others Lives and Eſtates, his work is then to make up his ſtake by any device. I cannot compare it better than to the practice of ſome Knaviſh Maſter of a Ship, who being intruſted by his Owners with a goodly Ship, and fraught with a valuable Cargo; he having no part in either, takes up on <hi>Bottom R<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> as much money as ever his credit can poſſibly ſtretch to; and having made up his Market, the next beſt opportunity, when he can moſt colourably do it, runs his Ship upon the Rock, or Shelves, where he may ſave himſelf, but undoes his Merchants and Owners. The Metaphor will hold as well with this Courtly Senator, who will ſerve the <hi>French</hi> King for Crowns, and ſell his own Prince, whoſe bread and favour ſupported his being, and for a Penſion, betray the Lives, Liber<g ref="char:EOLunhyphen"/>ties and Religion of the three Kingdoms, and is now known to the Kingdom by the name of <hi>Penſioner.</hi> 'Tis this Treacherous Crew of Court-Vermin we inveigh againſt, and that we cau<g ref="char:EOLhyphen"/>tion againſt in all our Elections: but for all thoſe men of Honour, Wiſdom, and Integrity, that are faithful to His Majeſty, and the Intereſt of the Kingdoms (attending the Court) we Love and Honour: Therefore ceaſe your Calumnious Aſperſions, and pack from amongſt us.</p>
+            <p>The quarrel now is purely betwixt Proteſtant and Papiſt: Since all muſt ſuffer together, of what perſwaſion ſoever, under the denomination of Proteſtant, I think it concerns all to ſtand together, and unanimouſly provide for our ſelves, by all lawful means: The chief of which, and the only remedy under God, is our Parliaments; who like good Phyſicians, purges away
+<pb n="4" facs="tcp:57805:3"/>corrupt humours, repreſenting our grievances to the King, providing Remedies for all our di<g ref="char:EOLhyphen"/>ſtempers, and ſupporting His Majeſty againſt all foreign and homebred enemies. This, as it is the great priviledg and birth-right of Engliſh men, and is the bond of their ſafety, if the beſt of men be elected to that great truſt; ſo if care be not taken to keep out Atheiſts, Papiſts, Pen<g ref="char:EOLhyphen"/>ſioners, and beggarly Prodigals, that will ſnap at every bait, your M<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>cine ſhall prove your Poyſon, and your Phyſicians your fatal Executioners. Shut not the<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>re your eyes, nor ſtop your ears, you ſee and underſtand enough by what is laid open, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll matter of fact; This deſign and deviliſh Plot has been long a g<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wing, and now <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> is labouring in its great <hi>Criſis;</hi> now is the time that all Hands, Hearts, P<gap reason="illegible" resp="#UOM" extent="6 letters">
+                  <desc>••••••</desc>
+               </gap>, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> are all little enough to ſuccour in this deplored calamity. Parliaments would <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>covered the Plot; offer remedies, and ſome think with too much hearty zeal. So that <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Parliaments are al<g ref="char:EOLhyphen"/>ready Diſſolved, to the amazement of the Nation in this j<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and 'tis hard and ſtrange we cannot be thought well with Parliament, be they <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; neither can we be without them; and theſe His Majeſty graciouſly declares ſhall <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>Therefore Gentlemen, and my dear Countrey-men, in the Name of God, and as you value the concern of the Goſpel, the honour, life and ſafety of your Prince, your Religion, Lives, Liberties and Eſtates, take care now of your Elections, as much, or more than ever; up and be doing, and the Lord that hath hitherto preſerved you, will ſtill deliver, if you be not want<g ref="char:EOLhyphen"/>ing to your ſelves in the uſe of thoſe lawful means God has put into your hands.</p>
+            <p>I ſhall only add this neceſſary Advertiſement, That if Parliaments be frequent, your danger will be ſo; for by often diſſolutions of Parliaments, and your exp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot being anſwered, you may thereby be diſcouraged, grow negligent, and ſo let your wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ul enemy have an opportunity to bring in their rotten Hirelings, that will ſell your birthright, or any things, to anſwer their hungry appetites.</p>
+            <p>The next danger is, leſt frequent Parliaments, beſides the trouble, will bring on a frequent inſupportable charge, which thoſe honeſt Gentlemen that deſerve ſo great a truſt, cannot un<g ref="char:EOLhyphen"/>dergo the burden of, and ſo be forc'd to deſert you.</p>
+            <p>Therefore I humbly adviſe, and heartily beſeech you, hear and pity the dying groans of your languiſhing Country; it is but your reaſonable ſervice, <hi>Nomo ſibi naſcitur partem patria, partem Parentes, partem Amici,</hi> all are concern'd. I addreſs my ſelf firſt to you the Electors, the Principal great Ingine, by which this mighty work muſt move; let no diſcouragements make you weary, but faithfully and duly attend your Elections, and actively ſtrive to raiſe all your Friends, Acquaintance and Relations with you, and make your choice of men fearing God, and hating Covetouſneſs; men of Honour, men of Honeſty, and men of Eſtates, and then miſs of a good Parliament if you can. Next, encourage thoſe faithful Gentlemen, of whoſe fidelity you have already had experience; chuſe them, and that freely, not charging them with a Penny, that they may be ſtill in a capacity to ſerve you, without their ruine. And you moſt worthy Patri<g ref="char:EOLhyphen"/>ots, that have immortalized your names by your faithful diſcharging of your Truſts in Parlia<g ref="char:EOLhyphen"/>ment, let nothing diſcourage you, but ſtand to, and for your King and Country; be not weary of well doing, let not your hearts faint before you have fully wrought deliverance for the King<g ref="char:EOLhyphen"/>dom; your merits can never be forgotten, <hi>for the memory of the juſt ſhall never fade.</hi> Give God his due, in maintaining his truths in our eſtabliſht Religion; give <hi>Caeſar</hi> his right in his Royal Prerogative, and keep and maintain the peoples right, as a ſacred relique depoſited in your hands; and he that will break but one Link in this Golden-Chain, let him be <hi>Anathe<g ref="char:EOLhyphen"/>ma, Maranatha:</hi> Lift up then your heads, brave Engliſh men, let nothing daunt you, mind well your Elections, and then Pope and Devil do thy worſt, nothing but our own neglects and ſins can undo us: and it will be the greateſt ſhame, that we ſhould be leſs active in ſo good a Cauſe to preſerve our ſelves, than the Enemy in a wicked one, to deſtroy us.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57805:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
